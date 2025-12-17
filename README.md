@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-	<img alt="Rajib's GitHub stats" src="https://github-readme-stats-pi-seven-19.vercel.app/api?username=RajibTheKing&count_private=true&show_icons=true&&include_all_commits=true&lines=1&hide_rank=true&number_format=long&theme=dark"/>
+	<img alt="Rajib's GitHub stats" src="https://github-readme-stats-pi-seven-19.vercel.app/api?username=RajibTheKing&count_private=true&show_icons=true&&include_all_commits=true&lines=1&hide_rank=false&number_format=long&theme=dark"/>
 	<img alt="Top langs" src="https://github-readme-stats-pi-seven-19.vercel.app/api/top-langs/?username=RajibTheKing&layout=compact&&langs_count=8&count_private=true&hide=php&theme=dark"/>
 </div>
 
