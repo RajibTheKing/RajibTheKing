@@ -24,13 +24,13 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-pi-seven-19.vercel.app/api/top-langs/?username=RajibTheKing&layout=compact&langs_count=8&hide=php&theme=radical&cache_seconds=21600" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=RajibTheKing&theme=radical&cache_seconds=21600" />
+  <img height="180em" src="https://github-readme-stats-pi-seven-19.vercel.app/api/top-langs/?username=RajibTheKing&layout=compact&langs_count=8&hide=php&theme=default&cache_seconds=21600" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=RajibTheKing&theme=default&cache_seconds=21600" />
 </div>
 
 <div align="center">
   <!-- Activity graph – beautiful timeline of your contributions -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajibTheKing&theme=react-dark&bg_color=1c1917&hide_border=true" width="88%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajibTheKing&theme=github&hide_border=true" width="88%" />
 </div>
 
 
