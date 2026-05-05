@@ -12,33 +12,16 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-### 🎓 Current Situation
-- 🚆 **Doctoral Researcher** in Real-Time/Embedded Systems working group
-- 🔬 Researching **safety-critical remote control systems for trains**
-- 🌐 Developing a complete remote control system framework for trains can be operated through **5G networks**
-
-### 🔮 Future Research Direction
-- 🎯 Implement **Lingua Franca** for safety-critical model development
-- 🤖 Integrate **ROS2** as distributed nodes for multi-sensor systems in trains
-- 📊 Focus on real-time safety guarantees and formal verification
-
-### 💼 Professional Experience
-- 🏆 **10+ years** of Professional experience in software development
-- 🎓 Bachelor's degree (2014) | Master's degree (2025)
-- 💻 Extensive background in:
-  - **NLP based Feature Extraction Solutions**
-  - **Digital Advertising Solutions**
-  - **Social Networking Solutions**
-  - **Task Management Software Solutions**
-  - **Audio, Video Processing SDK**
-- 👨‍💻 Roles: Software Engineer, Full-Stack Developer
-- 🌟 Specialized in building time critical, scalable, distributed systems
-
+## About Me
+- **Doctoral Researcher** in Real-Time/Embedded Systems working group
+- Researching **safety-critical remote control system** for trains
+- Developing a complete remote control system framework for trains can be operated through **5G networks**
+- **10+ years** of Professional experience in software development
+- Expert in developing **NLP based Feature Extraction**, **Audio-Video Processing SDK**, **Digital Advertising**, **Social Networking Software** i.g. Facebook, **Task Management Software** i.g. Trello
+- Extensive experience in building time critical, scalable and distributed systems
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-pi-seven-19.vercel.app/api/top-langs/?username=RajibTheKing&layout=compact&langs_count=8&hide=php&theme=radical&cache_seconds=21600" />
@@ -53,58 +36,24 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Remote Control System](https://github.com/reakt-sh/remote-control)
 A robust real-time remote control system designed for train operations, enabling seamless monitoring, control, and data exchange over 5G networks. Built with **Python**, **Vue.js**, and modern communication protocols.
 
-**Key Highlights:**
-- 🚆 Real-time train monitoring and control
-- 📡 Multi-protocol support: WebRTC, QUIC, WebSocket, MQTT
-- 🎥 Live H.264 video streaming from onboard cameras
-- 🌐 Distributed architecture
-- ⚡ Low-latency communication optimized for safety-critical operations
-- 🔒 MIT Licensed open-source project
-
-**Tech Stack:** Python 49.3% | Vue.js 29.8% | JavaScript 20.5%
-
 ### [Medical Feature Extraction](https://github.com/RajibTheKing/Medical_Feature_Extraction)
-An NLP-based system for extracting meaningful features from unstructured German clinical notes, featuring comprehensive annotation framework and comparative analysis of state-of-the-art models.
-
-**Key Highlights:**
-- 📋 Extracted features from German clinical notes
-- ✍️ Developed complete annotation framework from scratch
-- 📊 Manually annotated 10,000+ clinical notes
-- ✅ Verified by medical experts
-- 🔤 Custom tokenization procedures for different approaches
-- 🤖 Fine-tuned and compared models: BERT, SpaCy, Stanza
-- 📈 Well-defined performance comparison across models
+An NLP-based system for extracting meaningful features from unstructured German clinical notes, featuring comprehensive annotation framework and comparative analysis of state-of-the-art models i.e GPT, BERT, SpaCy, Stanza.
 
 ### [Pushbox](https://github.com/RajibTheKing/Pushbox)
-A Trello-inspired collaborative task management web application built for Kieler Nachrichten, designed to organize work and information through cards. Developed using test-driven development with full-stack JavaScript.
+A Trello-inspired collaborative task management web application built for Kieler Nachrichten, designed to organize work and information through cards. Developed using test-driven development with full-stack (MongoDB, Express.js, Vue.js, Node.js)
 
-**Key Highlights:**
-- 📋 Collaborative work organization with card-based interface
-- 🧪 Test-driven development approach
-- 🎨 Responsive web design
-- 🔧 Follows AirBNB StyleGuide for code quality
-- 🐳 Docker Swarm deployment for scalability
-- 📦 Modular and maintainable architecture
-
-**Tech Stack:** MEVN (MongoDB, Express.js, Vue.js, Node.js) | ES6
 
 ### [MediaEngine SDK](https://github.com/RajibTheKing/MediaEngine_SDK)
 A cross-platform solution that processes audio and video during live streams or video calls, written completely in **C++** and **raw Assembly**.
 
-**Key Highlights:**
-- 🎥 Real-time audio/video processing
-- 🔧 Low-level optimization with C++ and Assembly
-- 🌍 Cross-platform compatibility
-- 📡 Designed for live streaming and video call applications
-
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajib-chandra-das-67ba4145/">
