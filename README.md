@@ -25,7 +25,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-pi-seven-19.vercel.app/api/top-langs/?username=RajibTheKing&layout=compact&langs_count=8&hide=php" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=RajibTheKing" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=RajibTheKing&hide_border=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RajibTheKing" />
 </div>
 
 <div align="center">
