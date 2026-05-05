@@ -24,8 +24,8 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-pi-seven-19.vercel.app/api/top-langs/?username=RajibTheKing&layout=compact&langs_count=8&hide=php&theme=default&cache_seconds=21600" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=RajibTheKing&theme=default&cache_seconds=21600" />
+  <img height="180em" src="https://github-readme-stats-pi-seven-19.vercel.app/api/top-langs/?username=RajibTheKing&layout=compact&langs_count=8&hide=php&cache_seconds=21600" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=RajibTheKing&cache_seconds=21600" />
 </div>
 
 <div align="center">
