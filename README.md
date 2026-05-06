@@ -1,11 +1,4 @@
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RajibTheKing&style=flat-square&color=blue" alt="Profile views" />
-  <a href="https://github.com/RajibTheKing?tab=followers">
-    <img src="https://img.shields.io/github/followers/RajibTheKing?style=social" />
-  </a>
-</p>
-
 ## About Me
 - **Doctoral Researcher** in Real-Time/Embedded Systems working group
 - Researching **safety-critical remote control system** for trains
