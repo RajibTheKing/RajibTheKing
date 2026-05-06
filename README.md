@@ -1,7 +1,3 @@
-<!-- Header with animated typing effect (using h1 and a simple badge strip) -->
-<h1 align="center">Hi, I'm Rajib</h1>
-<h3 align="center">Doctoral Researcher | Real-Time & Embedded Systems | Software Development Engineer</h3>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajibTheKing&style=flat-square&color=blue" alt="Profile views" />
@@ -10,8 +6,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 - **Doctoral Researcher** in Real-Time/Embedded Systems working group
 - Researching **safety-critical remote control system** for trains
@@ -19,7 +13,7 @@
 - **10+ years** of Professional experience in software development
 - Expert in developing **NLP based Feature Extraction**, **Audio-Video Processing SDK**, **Digital Advertising**, **Social Networking Software** i.g. Facebook, **Task Management Software** i.g. Trello
 - Extensive experience in building time critical, scalable and distributed systems
----
+
 
 ## GitHub Statistics
 
@@ -32,6 +26,3 @@
   <!-- Activity graph – beautiful timeline of your contributions -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajibTheKing&theme=github&hide_border=true" width="88%" />
 </div>
-
-
----
